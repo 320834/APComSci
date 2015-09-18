@@ -1,0 +1,10 @@
+Exercise R4.9. Explain what each of the following two program segments computes:
+x = 2 ;
+y = x + x;
+and
+s = "2";
+t = s + s ;
+
+x is 2 and y is 4
+
+s is "2" and t is "22"

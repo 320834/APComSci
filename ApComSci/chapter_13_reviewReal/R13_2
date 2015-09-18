@@ -1,0 +1,3 @@
+Constructors of Savings Account: public SavingsAccount(double rate)
+Methods from Bank Account: deposit() withdraw()
+Methods added: addInterest()

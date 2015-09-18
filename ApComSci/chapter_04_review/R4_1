@@ -1,0 +1,13 @@
+Exercise R4.1. Write the following mathematical expressions in Java.
+_ 1 2
+5 - 50 + vot + "2 gt
+3
+G = 4n2 a
+p2(m1 + m2)
+FV = PV . ( 1 + %f) YRS
+c = ~a2 + b2 - 2abcosy
+
+1) s = s0 +(v0*t)+((g*t*t)/2)
+2) g = (4*Math.PI*Math.PI*a*a*a)/(p*p(m1 + m2));
+3) FV = PV * Math.pow((1+(INT/100),YRS);
+4) c = Math.sqrt(a*a + b*b - 2*a*b*Math.cos(y));

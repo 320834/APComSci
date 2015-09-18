@@ -1,0 +1,12 @@
+Exercise R2.8. Find the errors in the following statements:
+a. Rectangle r = (5, 10, 15, 20);
+b. double width = Rectangle(5, 10, 15, 20).getWidth();
+c. Rectangle r;
+r.translate(15, 25);
+d. r = new Rectangle();
+r.translate("far, far away!")
+
+a. have to put new Rectangle after the equals
+b. you are initializing a variable, not getting the width of an object
+c. r is not initialized
+d. String is not the proper parameter for translate

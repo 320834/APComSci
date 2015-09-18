@@ -1,0 +1,5 @@
+Exercise R4.3. What is wrong with this version of the quadratic formula?
+xl = (-b - Math.sqrt(b * b - 4 * a * c» / 2 * a;
+x2 = (-b + Math.sqrt(b * b - 4 * a * c» / 2 * a;
+
+It divides by 2 and then multiplies the result by a

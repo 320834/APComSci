@@ -1,0 +1,5 @@
+Exercise R2.S. Explain the difference between the = symbol in Java and in
+mathematics.
+
+In mathematics the = sign means that both sides are equivalent.
+In Java it assigns the right hand side to the variable on the left hand side.

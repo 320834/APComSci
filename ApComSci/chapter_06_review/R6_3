@@ -1,0 +1,18 @@
+Exercise R6.3. Explain the difference between an if/else/else statement and nested
+if statements. Give an example for each.
+
+For example, an if else else statement is when if something is true the elses wont be run
+If condition is true, only statement 1 is run, if condition is false but condition 2 is true, statement 2 is run and the next if is not tested
+if(condition)
+	statement1;
+else if(condition2)
+		statement2;
+	else if(condition3)
+			statement 3;
+			
+Nested if's are to narrow something down into sections If condition is true then the next if is run and if condition 2 is un and if the next if is true then finallly statement will be run
+
+if(condition)
+	if(condition2)
+		if(condition3)
+			statement;

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="chapter_03"/>
+	<classpathentry kind="src" path="chapter_04"/>
+	<classpathentry kind="src" path="montyHall"/>
+	<classpathentry kind="src" path="chapter_06"/>
+	<classpathentry kind="src" path="chapter_07"/>
+	<classpathentry kind="src" path="chapter_08"/>
+	<classpathentry kind="src" path="pigLatin"/>
+	<classpathentry kind="src" path="chapter_09"/>
+	<classpathentry kind="src" path="chapter_10"/>
+	<classpathentry kind="src" path="chapter_11"/>
+	<classpathentry kind="src" path="chapter_13"/>
+	<classpathentry kind="src" path="chapter_18"/>
+	<classpathentry kind="src" path="algorithmimimimimimimimi"/>
+	<classpathentry kind="src" path="blackjack"/>
+	<classpathentry kind="src" path="Yahtzee"/>
+	<classpathentry kind="src" path="alexu"/>
+	<classpathentry kind="src" path="magpie_lab"/>
+	<classpathentry kind="src" path="chapter_02"/>
+	<classpathentry kind="src" path="pictures_lab"/>
+	<classpathentry kind="src" path="chapter19"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

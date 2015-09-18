@@ -1,0 +1,14 @@
+Exercise R6.9. Explain the difference between
+s = 0;
+if (x > 0) s++;
+if (y > 0) s++;
+and
+s = 0;
+if (x > 0) s++;
+else if (y > 0) s++;
+
+In the first one it checks twice so if x = 1, y = 1;
+then s would equal 2
+
+However, in the second one, if the first if is true, the else is skipped so if x = 1, y = 1
+s would equal 1

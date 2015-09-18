@@ -1,0 +1,3 @@
+Exercise R3.9. What is the thi s reference? Why would you use it?
+
+The this is referencing the object that the method was called upon.

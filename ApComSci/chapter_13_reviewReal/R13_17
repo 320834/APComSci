@@ -1,0 +1,3 @@
+Public fields can be dangerous because if it stores sensitive information such as a bank balance, malicious code can 
+edit the balance.  Public static fields, such as Math.PI, are much less dangerous than public instance fields as public static
+fields are usually final.

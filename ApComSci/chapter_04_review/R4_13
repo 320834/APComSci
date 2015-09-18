@@ -1,0 +1,12 @@
+Exercise R4.13. How do you get the last digit of an integer? The first digit? That is, if
+n is 23456, how do you find out that the first digit is 2 and the last digit is 6? Do not
+convert the number to a string. Hint: %, Math . log.
+
+while(n >= 10)
+	n /= 10;
+n = (int)n;
+
+
+
+
+n%10;

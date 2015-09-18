@@ -1,0 +1,6 @@
+Exercise R3.5. Explain the difference between
+new BankAccount(5000);
+and
+BankAccount b = new BankAccount(5000);
+
+The first creates a BankAccount object and instantly deletes it because there is no reference however the second creates a BankAccount object whose state is 5000 and isn't deleted because it has an object reference, b.

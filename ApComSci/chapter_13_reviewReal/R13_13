@@ -1,0 +1,4 @@
+A shallow copy is when any objects that instance fields are pointing to are not copied so the instance fields in the shallow copy points to the
+same things that the original object points to
+
+In a deep copy, even the references are cloned so that you don't accidentally change something and have it reflectecd in both copies

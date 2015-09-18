@@ -1,0 +1,4 @@
+Exercise R6.12. Explain the difference between the == operator and the equals
+method when comparing strings.
+
+== tests to see if the variables point to the same reference but equals actually checks if they are the same

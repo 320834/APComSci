@@ -1,0 +1,4 @@
+Exercise R4.11. True or false? (x is an int and s is a String)
+3. Integer.parselnt("" + x) is the same as x True
+b. "" + Intege r. parselnt (s) is the same as s   False
+c. s . subst ri ng (0, s. 1 ength ()) is the same as s  True

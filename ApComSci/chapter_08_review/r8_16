@@ -1,0 +1,4 @@
+a. Arrays.equals(a1, a2);
+b. System.arraycopy(a1, 0, a2, 0, a1.length);
+c. Arrays.fill(a1, 0);
+d. Arrays.clear(a1);

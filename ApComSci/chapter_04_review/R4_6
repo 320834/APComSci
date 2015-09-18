@@ -1,0 +1,4 @@
+R4.6:
+ The first example would remove the decimal part even if it was really close to 1
+ 
+ The second example will round with .5 going to 1 and less than that going to 0

@@ -1,0 +1,5 @@
+a. PreCondition: String must contain a parseable int
+	PostCondition: Returns integer value of object represented
+	
+d. PRe IndexOutOfBoundsException - if the beginIndex is negative, or endIndex is larger than the length of this String object, or beginIndex is larger than endIndex.\
+   Post returns the specified substring.

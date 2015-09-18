@@ -1,0 +1,21 @@
+Exercise R6.4. Give an example for an ; f / e 1 se/ else statement where the order of the
+tests does not matter. Give an example where the order of the tests matters.
+
+Doesn't matter:	In this case it doesn't matter because only if x is the number then the conditions are true
+				It doesn't matter if the order is changed around
+if(x == 1)
+  return 4;
+else if(x == 2)
+   	     return 234;
+else if(x == 3)
+		return 231;
+		
+		
+Does Matter: One example is labeling systems like grades.	If it was reversed, anything above 70 even if it's a 100, would be labeled as a C
+
+if(grade > 90)
+	return 'A';
+else if(grade > 80)
+ 		return 'B';
+else if (grade > 70)
+		return 'C';

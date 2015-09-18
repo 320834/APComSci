@@ -1,0 +1,3 @@
+An index is the position number of an element
+The bounds of an array are 0 to array.length - 1
+An out of bounds error is called if one tries to access a number outside of the aforementioned bounds.

@@ -1,0 +1,10 @@
+Exercise R7.12. Give an example of a for loop in which symmetric bounds are more
+natural. Give an example of a for loop in which asymmetric bounds are more
+natural.
+
+Symetric
+
+for(int i = 0; i <=n; i++)
+
+Asymmetric
+for(int i = 0; i < string.length(); i++)

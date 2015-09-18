@@ -1,0 +1,2 @@
+casting primtive data types usually works unless it is of another data type and java understands this.
+however casting classes usually doesn't work and will give a class cast exceptions

@@ -1,0 +1,3 @@
+Exercise R2.11. Find an overloaded method of the String class.
+
+copyValueOf();

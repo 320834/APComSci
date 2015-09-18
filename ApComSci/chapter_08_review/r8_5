@@ -1,0 +1,8 @@
+largestYet = null;
+for(double d : array)
+	if(largestYet == null;
+		largestYet = d;
+	else if(largestYet < d)
+		largestYet = d;
+		
+I think this is less efficient than using the normal for loop used in the textbook

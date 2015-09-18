@@ -1,0 +1,20 @@
+Exercise R7.S. Rewrite the following do loop into a whi 1 e loop.
+
+i nt n = 1;
+double x = 0;
+double s;
+do
+{
+s = 1.0 / (n * n);
+x = x + s;
+n++;
+}
+while (s > 0.01);
+
+int n = 1;
+double x = 0, s = 1;
+while(s > 0.01){
+	s = 1.0/(n*m);
+	x += s;
+	n++
+}

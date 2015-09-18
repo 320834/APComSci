@@ -1,0 +1,8 @@
+Exercise R6.13. Explain the difference between the tests
+r == s
+and
+r.equals(s)
+where both r and s are of type Rectangle.
+
+== tests for reference
+and equals is a unknown method that check for something, maybe same points
