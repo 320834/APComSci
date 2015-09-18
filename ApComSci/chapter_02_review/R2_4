@@ -1,0 +1,6 @@
+Exercise R2.4. Give the Java code for an object of class Rectangle and for an object
+variable of class Rectangle.
+
+new Rectangle(10, 10, 10, 10);	object
+
+Rectangle box;	object variable

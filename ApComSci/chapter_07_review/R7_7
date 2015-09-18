@@ -1,0 +1,46 @@
+R 7.7
+A loop and a half is when the sentinel is checked inside the loop in an if statement and the else is
+the code afterwards if the sentinel hasn't been triggered... prevents processing of sentinel
+
+boolean done = false;
+while(!done){
+	if(bridgeName){
+		code
+	}
+	else
+		done = true;
+	if(bridgeLength){
+		mLength = length * conversionFactor;
+	}	
+	else
+		done = true;
+}
+System.out.println(stats);
+
+
+while(true){
+	if(bridgeName)
+		code
+	else
+		break;
+	if(bridgeLength)
+		mLength = length * conversionFactor;
+	else
+		break;	
+}
+System.out.println(stats);
+
+while(true){
+		if(bridgeName)
+		code
+	else
+		return null;
+	if(bridgeLength)
+		mLength = length * conversionFactor;
+	else
+		return null;	
+}
+System.out.println(stats);
+
+
+I find the one with breaks much clearer

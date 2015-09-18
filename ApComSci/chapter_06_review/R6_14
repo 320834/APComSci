@@ -1,0 +1,7 @@
+Exercise R6.14. What is wrong with this test to see whether r is null? What happens
+when this code runs?
+Rectangle r;
+if (r.equals(null))
+r = new Rectangle(S, 10, 20, 30);
+
+null is not a valid parameter compile time error

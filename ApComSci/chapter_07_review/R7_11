@@ -1,0 +1,8 @@
+Exercise. R 7.11. W.h at is an "off-by-one error"? Give an example from your own programmmg
+expenence.
+
+An off-by-one error is when your answer is either greater than or less than one of the actual answer
+which may result in null pointer exceptions or just the wrong answer.
+
+For example, with Strings, the elements start at 0, not 1, so if you tried to take the indexOf the string.
+length() you'd be off by one and get an OutOfBounds Exception

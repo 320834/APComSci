@@ -1,0 +1,9 @@
+Exercise R2.9  Name two accessor methods and two mutator methods of the Rectangle class.
+
+Accessor
+getHeight();
+getWidth();
+
+Mutator
+resize();
+reshape();

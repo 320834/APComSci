@@ -1,0 +1,18 @@
+Exercise R7.2. What does the following code print?
+for (int i = 0; i < 10; i++)
+{
+for (int j = 0; j < 10; j++)
+SY5tem.out.print(i * j % 10);
+SY5tem.out.println();
+}
+
+000000000
+0123456789
+0246802468
+069258147
+0482604826
+0505050505
+0638406284
+0741852963
+0864208646
+0987654321

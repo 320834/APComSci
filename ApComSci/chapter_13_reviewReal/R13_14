@@ -1,0 +1,3 @@
+Instance fields should be private
+Static fields should be public/package
+static final fields should be public

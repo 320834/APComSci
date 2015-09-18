@@ -1,0 +1,10 @@
+ a. Employee - super Manager - Sub
+ b. Polygon - super Triangle - sub
+ c. Student - super GraduateStudent - sub
+ d. Person - super Student - sub
+ e. GraduateStudent - super Employee- sub
+ f. BankAccount - super CheckingAccount - sub
+ g. Vehicle - super Car - sub
+ h. Vehicle - super Minivan - sub
+ i. Car - super Minivan - sub
+ j. Vehicle - super Truck - sub

@@ -1,0 +1,5 @@
+R4.15:
+ It is a value that cannot be changed after being set.
+ Yes you can define a final variable without giving a variable;
+final int x;
+x = 5;

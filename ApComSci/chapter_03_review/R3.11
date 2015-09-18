@@ -1,0 +1,19 @@
+Exercise R3.11. Suppose you want to implement a class Savi ngsAccount. A savings
+account is similar to a bank account, but it has an interest rate and accumulates
+interest once a year. Design the public interface for this class.
+
+
+	/**
+	*This class accumulates interest once a year
+	*/
+public class SavingsAccound(){
+	public SavingsAccount(int accountNumber, double initialBalance, double interestRate){
+	}	
+	
+	/**
+	*This class gets the balance.
+	*@return balance returns the balance
+	*/
+	public double getBalance(){
+	}
+}	

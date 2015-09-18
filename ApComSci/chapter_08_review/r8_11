@@ -1,0 +1,10 @@
+a.  double sum = 0;
+	for(int i = 0; i < data.length(); i++)
+		sum += data[i];
+
+b. for(int i = 0; i < data.length(); i++)
+		if(target == data[i])
+			return true;
+			
+c. for(int i = 0; i < data.length(); i++)
+		data[i] *= 2;

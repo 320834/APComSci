@@ -1,0 +1,11 @@
+Exercise R7.3. How often do the following loops execute? Assume that i is an integer
+variable that is not changed in the loop body.
+a. for (i = l' , i <= 10; i++)
+b. for (i = 0; i < 10; i++)
+c. for (i 10; i > 0; i --)
+d. for (i -10; i <= 10; i++)
+e. for (i 10; i >= 0; i++)
+f. for (i -10; <= 10; i + 2)
+g. for (i -10; <= 10; i + 3)
+
+10, 10, 10, 21, infinite, 11, 7

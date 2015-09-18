@@ -1,0 +1,12 @@
+a. for (x : data) 
+		sum = sum + x;
+	
+b. for (x : data) 
+		sum = sum + x;
+	sum -= data[0];
+	
+c. int count = 0;
+	for (x : data) 
+		if (x == target) 
+			return count;
+	count++;

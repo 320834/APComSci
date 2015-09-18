@@ -1,0 +1,8 @@
+Yes
+
+superclass BankAccount
+subclass SavingsAccount
+
+BankAccount ba = new SavingsAccount();
+
+SavingsAccount rekt = (SavingsAccount)new BankAccount();

@@ -1,0 +1,11 @@
+a.PreCondition: Input is a double and a perfect square
+	PostConditions: returns square root of input
+
+b. PreCondition: Input is int
+	PostCondition: Retuns String version of int in Roman Numerals
+	
+c. 	PreCondition: The Line is valid
+	PostCondition: Returns slope of input line
+	
+d.  PreCondition: The input int is within the bounds 1 - 7
+	PostCondition: The number is turned into the corresponding day of the week

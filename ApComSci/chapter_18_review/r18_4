@@ -1,0 +1,2 @@
+base case: if the subset = n return n
+			if that statement is passed, return the subset of it - 1

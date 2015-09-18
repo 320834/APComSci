@@ -1,0 +1,39 @@
+A1:
+	1: 8 bits
+	2: 3 bytes
+	3: 307200 pixels in total
+	
+A2:
+	1: R: 255 G: 0 B: 255
+	2: R: 255 G: 255 B: 123
+	3: R: 123 G: 0 B: 123
+	4: R: 255 G: 255 B: 255	
+	5: R: 32 G: 32 B: 32
+
+A3:
+	1. 0
+	2. 0
+	3. 639
+	4. 479
+	5. top to bottom
+	6. left to right
+	7. uhhhh, yeah i can see pixelation is this a question?
+		Exercises completed
+		
+A4:
+	Exercises coded
+A5:
+	1. No, getPixels2D is not in Picture
+	2. getPixels2D is in SimplePicture
+	3. DigitalPicture p = new DigitalPicture(); doesn't compile
+	4. DigitalPicture p = new SimplePicture(); compiles
+	5. DigitalPicture p = new Picture(); compiles
+	6. SimplePicture p = new Picture(); compiles
+	7. Picture p = new SimplePicture(); doesn't compile (cast needed)
+		Exercises coded
+		
+A6: 
+	
+A7: 
+	1. 90 executions
+	2. 112 executions

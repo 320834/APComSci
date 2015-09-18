@@ -1,0 +1,1 @@
+Since the fields are static public, one can always say System.in = ...;

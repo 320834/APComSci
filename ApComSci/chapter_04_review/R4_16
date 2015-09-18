@@ -1,0 +1,19 @@
+Exercise R4.16. What are the values of the following expressions? In each line,
+assume that
+double x = 2.5;
+double y = -1.5;
+int m = 18;
+int n = 4;
+String s "Hello";
+String t = "World";
+a. x + n * y - (x + n) * y = 6.25
+b. m / n + m % n = 6
+C. 5*x-n/5 = 12.5
+d. Math.sqrt(Math.sqrt(n)) = 1.4142
+e. (int) Math.round(x) = 3
+t (int) Math.round(x) + (int) Math.round(y) = 2
+g. s + t = HelloWorld
+h. s + n = Hello4
+i. 1 - (1 - (1 - (1 - (1 - n)))) = -3
+j. s. substri ng(l, 3) = el
+k. s. 1 ength () + t. 1 ength () = 10

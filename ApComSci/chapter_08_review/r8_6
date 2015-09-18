@@ -1,0 +1,2 @@
+If all of the elements of values are negative, then the max will give an incorrect return of 0;
+You can set the value of max to Integer.MIN_VALUE instead.

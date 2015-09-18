@@ -1,0 +1,1 @@
+Methods such as parseInt are static because no refefrences to instance fields are made and all calculations are independently done inside of the class using the explicit parameter

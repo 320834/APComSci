@@ -1,0 +1,7 @@
+Exercise R4.12. How do you get the first character of a string? The last character?
+How do you remove the first character? The last character?
+
+string.charAt(0);
+string.charAt(string.length()-1);
+string.substring(0);
+string.substring(0, string.length()-1);

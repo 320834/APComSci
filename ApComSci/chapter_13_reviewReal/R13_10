@@ -1,0 +1,2 @@
+super relates to the superclass and is used to call constructors, pervious versions of overriden methods etc
+the this keyword relates to methods of the object which may end up being methods of the superclass
